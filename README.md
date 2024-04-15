@@ -8,11 +8,11 @@ Welcome to my portfolio! My name is Masih Moafi, and I'm passionate about levera
 
 ### 1. Financial Market Analysis
 1.1 Time-Series Analysis for Bitcoin
-- Description: This project involves the analysis of Bitcoin's time-series data using LSTM and ResNet models. It showcases the ability to predict and analyze trends in cryptocurrency data.
+- Description: This project involves the analysis of Bitcoin's(or any other chart) time-series data using LSTM and ResNet in conjunction. Later, 2 trading strategies are implemented. One of which is profitable.
 - Algorithms: ResNet-LSTM
 
 1.2 Clustering 100 Cryptocurrencies
-- B-Description: I have performed clustering using k-means on 100 cryptocurrencies.
+- Description: clustering 100 crypto currencies using K-means algorithm.
 - Algorithms: K-Means Clustering 
 
 ### 2. Medical Image Segmentation
@@ -29,15 +29,15 @@ Welcome to my portfolio! My name is Masih Moafi, and I'm passionate about levera
 
 ### 5. Transfer Learning Projects
 5.1 Text Generation using GPT-2
-- Description: This project utilizes GPT-2 for text generation tasks. It showcases the generation of creative and coherent text based on pre-trained models.
+- Description: This project utilizes GPT-2 for text generation tasks. It showcases the generation of customized and coherent text based on pre-trained models.
 - Technologies: LLMs(GPT-2)
 
 5.2 Style Transfer using Transfer Learning
 - Description: This project demonstrates style transfer by combining the style of one image with the content of another. It showcases the power of transfer learning techniques.
-- Technologies: Transfer Learning, Style Transfer
+- Technologies: Transfer Learning, Style Transfer, Tensorflow
 
 ### 6. Movie Recommendation System
-- Description: In this project, I have implemented a movie recommendation system using clustering and content-based algorithms. It helps users discover relevant movies based on their preferences.
+- Description: In this project, I have implemented a movie recommendation system using content-based clustering algorithms. It helps users discover relevant movies based on their preferences.
 - Technologies: K-Means Clustering, Content-based Filtering
 
 ### 7. Predicting Housing Prices
