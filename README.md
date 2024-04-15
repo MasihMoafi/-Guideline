@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my portfolio! My name is Masih Moafi, and I'm passionate about leveraging the applications of AI and Machine Learning to develop innovative, cutting-edge solutions. My primary focus areas are in financial markets, medicine and unsupervised learning. Through this portfolio, I aim to showcase my work and projects across various domains.
+Welcome to my portfolio! My name is Masih Moafi, and I'm passionate about leveraging AI and machine learning applications to develop innovative, cutting-edge solutions. My primary focus areas are financial markets, medicine, and unsupervised learning. Through this portfolio, I aim to showcase my work and projects across various domains
 
 ## Projects
 
