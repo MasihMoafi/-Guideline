@@ -47,7 +47,3 @@ Welcome to my portfolio! My name is Masih Moafi, and I'm passionate about levera
 ### 8. Work Hour Analysis
 - Description: This project involves analyzing work hours using linear regression and polynomial regression models. It showcases the ability to analyze and predict work patterns.
 - Algorithms: Linear Regression, Polynomial Regression
-
-## Contact
-
-To get in touch with me or discuss potential collaborations, please feel free to email me at masihmoafi12@gmail.com.
